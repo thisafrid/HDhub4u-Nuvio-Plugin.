@@ -1,7 +1,7 @@
 {
   "name": "Afrid's HDhub Repo",
   "version": 1,
-  "description": "Custom Providers for Nuvio",
+  "description": "Custom Hindi providers for Nuvio",
   "providers": [
     {
       "id": "hdhub4u_afrid",
@@ -9,11 +9,9 @@
       "version": 1,
       "language": "hi",
       "url": "https://raw.githubusercontent.com/phisher98/phisher-nuvio-providers/main/src/providers/hdhub4u.js",
-      "icon": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
-      "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
+      "logo": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
       "types": ["movie", "tv", "anime"],
-      "supportedTypes": ["movie", "tv", "anime"],
-      "description": "Hindi provider for HDhub4u"
+      "description": "Optimized Hindi provider for HDhub4u."
     }
   ]
 }
