@@ -1,17 +1,14 @@
 {
   "name": "Afrid's Custom Repo",
-  "version": "1.0.0",
+  "version": 1,
+  "description": "Custom Hindi movie providers for Nuvio",
   "providers": [
     {
       "id": "hdhub4u-phisher",
       "name": "HDhub4u",
-      "version": "1.0.0",
+      "version": 1,
       "language": "hi",
-      "supportedTypes": [
-        "movie",
-        "tv",
-        "anime"
-      ],
+      "supportedTypes": ["movie", "tv", "anime"],
       "url": "https://raw.githubusercontent.com/phisher98/phisher-nuvio-providers/main/src/providers/hdhub4u.js",
       "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
       "description": "Optimized Hindi provider for Nuvio."
